@@ -1,0 +1,46 @@
+html {
+    background-image: url('weather-app-background2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-size: x-small;
+    font-family: 'Montserrat', sans-serif;
+    color: snow;
+    font-size: large;
+}
+
+.citySearch {
+    position: relative;
+    margin-top: 20vh;
+    text-align: center;
+}
+
+.div-search-btn {
+    margin-top: 2vh;
+}
+
+#city {
+    text-align: center;
+}
+
+.display-container {
+    background: rgba(255, 255, 255, 0.6);
+    border: white 3px solid;
+    border-radius: 5%;
+    height: 45vh;
+    width: 45vh;
+    margin: auto;
+    margin-top: 3vh;
+    text-align: center;
+    color: black;
+    overflow: auto;
+}
+
+img {
+    height: 8vh;
+}
+
+h5 {
+    margin: 1%;
+}
